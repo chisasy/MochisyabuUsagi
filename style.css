@@ -160,20 +160,23 @@ table {
     height: 52px;
     letter-spacing: 20px;
 }
+.sns_icon {
+    color: #996666;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+}
 .YouTube{
     height: 291px;
     padding-right: 50px;
+    align-items: center;
 }
 .Twitter{
     height: 291px;
     padding-right: 50px;
+    align-items: center;
 }
 .TwitterReal{
     height: 291px;
-}
-.body_bottom span {
-    padding-right: 50px;
-    padding-left: 60px;
-    color: #996666;
-    font-weight: bold;
+    align-items: center;
 }
