@@ -120,7 +120,6 @@ table {
     font-weight: bold ;
     color: #663300;
     margin-bottom: 30px;
-    width: 400px;
     height: 52px;
     letter-spacing: 20px;
 
@@ -128,7 +127,6 @@ table {
 .main_text{
     font-size: 25px;
     font-style: YuGothic;
-    width:1170px;
     height: 87px;
     color: #996666;
 }
@@ -139,7 +137,6 @@ table {
     color: indianred;
     font-size: 30px;
     margin-top:10px;
-    width: 400px;
     height: 67px;
     box-shadow: 7px 7px #996666;
 
@@ -160,22 +157,18 @@ table {
     font-size:35px;
     font-weight: bold ;
     color: #663300;
-    width: 550px;
     height: 52px;
     letter-spacing: 20px;
 }
 .YouTube{
-    width:356px;
     height: 291px;
     padding-right: 50px;
 }
 .Twitter{
-    width:356px;
     height: 291px;
     padding-right: 50px;
 }
 .TwitterReal{
-    width:356px;
     height: 291px;
 }
 .body_bottom span {
