@@ -73,16 +73,26 @@ table {
 }
 /*ヘッダー画像*/
 .headline{
-
     background-size: cover;
     background-repeat: no-repeat;
     background-color: lightpink;
-}
-
-.headline img {
     display: flex;
     align-content: center;
     justify-content: center;
+}
+
+.headline > div {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width: 33.3%;
+}
+.headline > div >img {
+    width: 100%;
+}
+
+.headline > div >.Machya{
+    width: 70%;
 }
 
 .headline_text{
