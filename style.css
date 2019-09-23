@@ -78,11 +78,11 @@ table {
     background-repeat: no-repeat;
     background-color: lightpink;
 }
+
 .headline img {
-    width: 30%
-}
-.Machya {
-    padding-left: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }
 
 .headline_text{
